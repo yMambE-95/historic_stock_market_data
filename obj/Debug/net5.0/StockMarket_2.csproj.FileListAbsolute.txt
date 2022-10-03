@@ -1,0 +1,44 @@
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\StockMarket_2.exe
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\StockMarket_2.deps.json
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\StockMarket_2.runtimeconfig.json
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\StockMarket_2.runtimeconfig.dev.json
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\StockMarket_2.dll
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\StockMarket_2.pdb
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\CsvHelper.dll
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\Flurl.dll
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\Flurl.Http.dll
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\YahooFinanceApi.dll
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.csproj.AssemblyReference.cache
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.AssemblyInfoInputs.cache
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.AssemblyInfo.cs
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.csproj.CoreCompileInputs.cache
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.csproj.CopyComplete
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.dll
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\refint\StockMarket_2.dll
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.pdb
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.genruntimeconfig.cache
+D:\CSHARP\Visual Studio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\ref\StockMarket_2.dll
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\StockMarket_2.exe
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\StockMarket_2.deps.json
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\StockMarket_2.runtimeconfig.json
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\StockMarket_2.runtimeconfig.dev.json
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\StockMarket_2.dll
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\StockMarket_2.pdb
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\CsvHelper.dll
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\Flurl.dll
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\Flurl.Http.dll
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\bin\Debug\net5.0\YahooFinanceApi.dll
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.csproj.AssemblyReference.cache
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.AssemblyInfoInputs.cache
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.AssemblyInfo.cs
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.csproj.CoreCompileInputs.cache
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.csproj.CopyComplete
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.dll
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\refint\StockMarket_2.dll
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.pdb
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\StockMarket_2.genruntimeconfig.cache
+D:\CSHARP\VisualStudio\StockMarketData\StockMarket_2\StockMarket_2\obj\Debug\net5.0\ref\StockMarket_2.dll
